@@ -26,8 +26,8 @@ This repository contains SQL scripts and documentation for internship tasks assi
 ## 🚀 How to Use  
 ### Clone the Repository  
 ```sh
-git clone https://github.com/your-username/sql-internship-tasks.git
-cd sql-internship-tasks
+git clone https://github.com/Jeyasrikodeeswaran/Codtech.internship.outputs.git
+cd Codtech.internship.outputs
 ```  
 
 ### Run SQL Scripts  
@@ -43,9 +43,6 @@ For **Task 3 (Migration)** and **Task 4 (Backup & Restore)**, execute the provid
 - **Internship Provider:** CodTech Institute  
 - **Internship Type:** SQL & Database Management  
 - **Internship Level:** Practical SQL Implementation  
-
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/)  
-
 ---  
 
 © CodTech Institute Internship - SQL Tasks  
